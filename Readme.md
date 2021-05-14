@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SuxuchangZJU
 - 👀 I’m interested in constraction of moulecular dynamics simulation system.
 - 🌱 I’m currently learning how to simply build a fractal system .top file.
-- 💞️ I’m looking to collaborate on builder of ubiquitous code of .top/.gro.
+- 💞️ I’m looking to collaborate on builder of ubiquitous code of .top/.gro/.itp/.py...
 - 📫 How to reach me mr.su.su@outlook.com
 
 <!---
